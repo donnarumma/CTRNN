@@ -1,0 +1,2 @@
+function nmParams=createNMParamsNewRule(nmElements)
+end
