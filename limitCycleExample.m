@@ -28,7 +28,7 @@ net.externalWMatrix=EXTERNAL_MAT;
 net.biases=BIASES;
 net.tau=[1 1];
 
-net.asymMod=1;
+net.asymMod=0;
 %net.asynTime=1000; 
 net.asymTime=2000; 
 net.externalInput=[0.9 0.9];

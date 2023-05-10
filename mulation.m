@@ -53,7 +53,9 @@ elseif strcmp(matrixType,EXTERNAL_MATRIX)==1
     progInput=weights2program(net.externalWMatrix(i,j),minW,maxW);
     netMul.externalInput=[netMul.externalInput repmat(progInput,numExtInput,1)];
 else
-    display('Error: matrixType value can be either internal or external');
+    disp('Error: matrixType value can be either internal or external');
 end
 %% added by francesco
 netMul.numExternalInput=size(netMul.externalWMatrix,2);
+netMul.numUnits        =length(netMul.biases);
+

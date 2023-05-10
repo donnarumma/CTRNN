@@ -51,7 +51,7 @@ end
 if newfigure
     hfig=figure;
 else
-    hfig=cgf;
+    hfig=gcf;
 end
 
 try

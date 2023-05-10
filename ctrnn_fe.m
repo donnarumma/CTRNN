@@ -61,6 +61,6 @@ y(:,1) = y0 + ratio * f;
 
         y ( :, (i+1) ) = y (:, i) + ratio * f;
 
-    end;
+    end
 	
 end
