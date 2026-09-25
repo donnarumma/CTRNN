@@ -1,0 +1,6 @@
+time,before_row,before_col,after_row,after_col,stage,action,touched_goal,accepted_count,success,wrong_goal,program_id,true_route,action_confidence
+1,3,6,3,7,1,3,0,0,0,0,6,6,0.99999999381653915
+2,3,7,4,7,1,2,0,0,0,0,6,6,0.99999999381653915
+3,4,7,5,7,1,2,0,0,0,0,6,6,0.99999999381653915
+4,5,7,5,7,1,5,3,1,0,0,6,6,0.99999999381653915
+5,5,7,5,7,2,5,3,1,0,1,6,6,0.99999999381653915

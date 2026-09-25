@@ -1,0 +1,5 @@
+# Regenerable binary artifacts; small CSV/JSON/TEX exports remain trackable.
+results/*.mat
+results/*.pdf
+results/*.png
+*.asv
