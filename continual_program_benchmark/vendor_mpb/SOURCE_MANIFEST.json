@@ -1,0 +1,16 @@
+{
+  "source": "/media/Data/OneDrive/tools/CTRNN/motor_program_benchmark",
+  "description": "Unmodified subset of MPB v1 used by Continual Program Benchmark",
+  "sha256": {
+    "mpb_parameters.m": "b6140f57c0b719ffb603314e91d0e9ece3679155f9a46679638985adf5499f2b",
+    "mpb_head.m": "fd48f323e30ff6587aae5df4cd5e7a071f9cb6a5e3935b406e95b48282649f9c",
+    "mpb_belief_update.m": "bf7feaea9f320b3348fc810eafc3052da8d088f209d0c85855ad00be9383dc33",
+    "mpb_controller.m": "c2181d6c0e9f7b5aa4835a82a43f6b57aaa258775363a43c4445871f3e754201",
+    "mpb_execute.m": "4696193b7f4e3fc7dff030fa7f2862c3693b4ba579baec43649e851f04764fa5",
+    "mpb_compiled_execute.m": "918a5bf83501d83b1e41b2ccd9433aabe69b6116f38b6388a9474af2c514a0c5",
+    "mpb_rollout.m": "cbbcfbb6c4e015032ed72602b72d75411a4981b06a3c4cb8cd26014368f7e2d4",
+    "mpb_predict_costs.m": "e7f0681b163cddde31d3ab04751016f705f5406a83a3038efee4f5fa32931c5f",
+    "mpb_protocol.m": "6463deae8d67ebe4c5c223564aff61d4e9042b36e7fe5e9ae37341f74b795af0",
+    "layout_manifest.mat": "b2122bc19a9d61c42bc0e660f3dd7a606eea31a93d5089a2a19f399c684cef38"
+  }
+}
